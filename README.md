@@ -281,4 +281,4 @@ This project demonstrates concepts from:
 
 ## Author
 
-Developed as an Operating Systems project demonstrating shadow paging and memory write tracking techniques.
+Developed as an Operating Systems project demonstrating shadow paging and memory write-tracking techniques by Anshuman and Ayush Chaurasia.
