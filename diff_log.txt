@@ -1,0 +1,3 @@
+Shadow Paging Memory Debugger - Change Log
+==========================================
+
